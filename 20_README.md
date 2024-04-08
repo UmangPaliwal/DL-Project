@@ -20,5 +20,5 @@ Each model is evaluated based on its ability to accurately classify the images i
 
 ## Dataset Link
 
-The dataset used for this project can be found here: [Potato Disease Dataset]('https://www.kaggle.com/datasets/emmarex/plantdisease')
+The dataset used for this project can be found here: ['https://www.kaggle.com/datasets/emmarex/plantdisease']
 
